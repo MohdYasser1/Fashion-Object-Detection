@@ -21,6 +21,6 @@ A yolov8 model trained on a Colorful Fashion Dataset.  [(Dataset Link)](https://
 **Note:** Make sure you have installed all the required libraries  
 ``` pip install streamlit pillow ultralytics pandas ```
 
-Sample Output:
+### Sample Output:
 ![image](https://github.com/MohdYasser1/Fashion-Object-Detection/assets/88620211/e42d5901-3947-43db-b91d-e88e3f06446d)
 
