@@ -4,7 +4,7 @@ from ultralytics import YOLO
 import pandas as pd
 
 # Load the pre-trained model
-model = YOLO("fashion_yolo.pt")
+model = YOLO("Models/fashion_yolo.pt")
 
 
 
